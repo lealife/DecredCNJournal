@@ -256,7 +256,7 @@ Joel对Decred的治理系统及其让Decred多态，在社区决定时添加功�
 
 Reddit事件展示了平台的另一个弱点。用户开了多个帖子并激发了讨论，但后来却把帖子删除了。这件事浪费了所有社区回复的人的努力。被删除的帖虽然以另一种形式[保存](https://www.reddit.com/r/decred/comments/a6ywpj/deleted_threads_with_valuable_discussion/)了下来，但此事件显示了另一种攻击/破坏维度：触发讨论然后删除帖子，浪费社区的资源。由于版主无法禁止用户删除内容，因此在Reddit其实并无法阻止这问题的发生。该事件也引发了探讨基于Politeia的[Reddit替代产品](https://github.com/xaur/decred-issues/issues/38)的讨论，。
 
-再一次的，在很接近软件新版本发布时Reddit出现了很多不寻常活动。这包括许多较不相关问题的出现，或看似无意的问题等等，并且这些问题都是从一些从来不活跃，短暂出现的帐号问出。这启事希望让关心项目的社区成员注意这些有可能浪费项目资源的怪异活动。详情请看[讨论](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$154531182347084ccYxu:decred.org)。
+再一次的，在临近软件新版本发布时Reddit出现了很多不寻常活动。这包括许多较不相关问题的出现，或看似无意的问题等等，并且这些问题都是从一些从来不活跃，短暂出现的帐号问出。这起事希望让关心项目的社区成员注意这些有可能浪费项目资源的怪异活动。详情请看[讨论](https://matrix.to/#/!MgQoetFiyjrHAywokv:decred.org/$154531182347084ccYxu:decred.org)。
 
 ## 市场
 
@@ -281,9 +281,9 @@ Aragon治理提案(AGPs)第一轮投票由于以太坊君士坦丁堡硬分叉�
 最新[blockchaintransparency.org](https://www.blockchaintransparency.org/)的交易量报告得出的结论是，coinmarketcap.com排名前25位的与BTC对中，超过80％的交易量是洗牌交易。另一个难过的发现是，平均项目花费超过50,000美元的上市费用。该报告激发一些了分析DCR的交易量的[想法](https://github.com/xaur/decred-issues/issues/34)。
 
 Coinbase通过[注册商标](https://www.coindesk.com/coinbase-wants-to-own-buidl-trademark-filing-reveals
-)拥有“BUIDL”一词
+)拥有“BUIDL”一词。
 
-很多加密货币服务及团队视乎由几个实体拥有或共同拥有 https://twitter.com/tangleblog/status/1068094875533479937
+很多加密货币服务及团队似乎由几个实体拥有或共同拥有 https://twitter.com/tangleblog/status/1068094875533479937
 
 多个中心化交易所在年度[Proof-of-Keys](https://www.proofofkeys.com/)活动中[无法提供提款](https://www.ccn.com/several-exchanges-said-to-be-failing-bitcoin-ownership-event/)  
 
@@ -291,7 +291,7 @@ Slack不小心[屏蔽](https://www.engadget.com/2018/12/22/iran-sanctions-slack/
 
 12月中媒体报道了[多篇](https://www.wsj.com/articles/layoffs-become-the-latest-thing-in-cryptocurrency-1544471449)关于[加密货币行业](https://www.newsbtc.com/2019/01/09/cryptocurrency-shapeshift-layoffs/)的[裁员](https://www.businessinsider.com/bitmain-layoffs-2018-12)新闻。(也有报道指出相比其他行业并[没有这么严重](https://cointelegraph.com/news/better-than-corporations-layoffs-in-crypto-are-on-the-rise-still-lower-than-in-other-industries))。从上述Horizen的情况及一些Dash[社区讨论](https://www.reddit.com/r/dashpay/comments/ac9ca4/dash_nigeria_defunding_statement_and_path_forward/)看出其他拥有基金会的项目也同样正渡过难关。我们必须对在Politeia出现前管理基金会并保持健康的余额的团队表示感激，这是Decred在其他项目萎缩的时候仍然在发展扩大团队。12月的DCR价格以 17.50美元计算，将是基金会第一次花费大于收纳的月份。就算DCR/USD 汇率保持低迷，基金会仍然有能力可以保持目前的美金开销金额（略算为8年）。
 
-[据称](https://cointelegraph.com/news/reports-bitmain-allegedly-fires-all-bch-developers-in-wave-of-redundancies)在这波加密领域大裁员中，比特大陆裁推了所有比特现金的开发团队，当中也包括了Copernicus团队。
+[据称](https://cointelegraph.com/news/reports-bitmain-allegedly-fires-all-bch-developers-in-wave-of-redundancies)在这波加密领域大裁员中，比特大陆裁退了所有比特现金的开发团队，当中也包括了Copernicus团队。
 
 [Copernicus](https://github.com/copernet/copernicus)用Go编写了比特币现金协议的一个实现，当中也使用了btcsuite。软件预发布版本在12月[发布](https://news.bitcoin.com/an-alternative-client-has-mined-bitcoin-cash-block-558847/)并挖采了首个区块。作者在网站中[感谢](https://www.copernicuscore.org/btcd.html)btcsuite开发者并对他们在比特币生态系统的贡献表示[肯定](https://www.copernicuscore.org/btcd.html)。Copernicus团队在部落格里[表示](https://medium.com/@copernicusbit/the-copernicus-project-launched-the-pre-release-v0-0-6-dc572a924214)该软件“把原本的客户端软件架构重新组合和设计，以让整体架构更精确，降低开发人员的学习难度并增加了多样的客户端确保BCH网络的安全”。
 
